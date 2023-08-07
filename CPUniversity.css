@@ -1,0 +1,14 @@
+.button{
+    height:38px;
+    width:130px;
+    background-color:lightblue;
+    color:black;
+    margin:5px;
+    padding:8px;
+    border-radius:10px;
+    border-width:0px;
+}
+.img{
+    height:180px;
+    width:310px;
+}
